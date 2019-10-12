@@ -1,4 +1,4 @@
----
+  ---
 title: "HW2-EDA with R - Part1: Plotting"
 author: "misken"
 date: "September 29, 2019"
@@ -42,7 +42,7 @@ Create a new R Project based on this working directory.
 track the .R file, the .Rmd file and your .gitignore file. Create a remote repo
 for this homework assignment in your GitHub account. Periodically push your commits
 to GitHub. When done with the assignment, paste in the URL of your GitHub project
-so that I can go look at it.
+so that I can go look at it. i am getting this part done
 
 ## Step 3 - Explore data folder
 
